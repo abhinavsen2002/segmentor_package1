@@ -1,0 +1,5 @@
+n_min = c2.min(axis = (1,2), keepdims = True)
+  # n_max = c2.max(axis = (1,2), keepdims = True)
+  # print(n_max)
+  # print(n_min)
+  # c2 = (c2-n_min)/(n_max-n_min)
